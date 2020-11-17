@@ -1,0 +1,14 @@
+li {
+  display: inline-block;
+  margin: 0.5em;
+  font-weight: bold;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: rgb(19, 135, 243);
+}
